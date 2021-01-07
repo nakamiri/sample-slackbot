@@ -13,3 +13,7 @@ PLUGINS = ['plugins']
 JIRA_BASE_URL = 'http://localhost:8080'
 JIRA_ID = environ['JIRA_ID']
 JIRA_PW = environ['JIRA_PW']
+
+CONFLUENCE_BASE_URL = 'http://localhost:8090'
+CONFLUENCE_ID = environ['CONFLUENCE_ID']
+CONFLUENCE_PW = environ['CONFLUENCE_PW']
